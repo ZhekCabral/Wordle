@@ -1,0 +1,12 @@
+C:\Users\ynahc\source\repos\Wordle\Wordle\bin\Debug\Wordle.exe.config
+C:\Users\ynahc\source\repos\Wordle\Wordle\bin\Debug\Wordle.exe
+C:\Users\ynahc\source\repos\Wordle\Wordle\bin\Debug\Wordle.pdb
+C:\Users\ynahc\source\repos\Wordle\Wordle\obj\Debug\Wordle.csproj.AssemblyReference.cache
+C:\Users\ynahc\source\repos\Wordle\Wordle\obj\Debug\Wordle.Form1.resources
+C:\Users\ynahc\source\repos\Wordle\Wordle\obj\Debug\Wordle.gameArea.resources
+C:\Users\ynahc\source\repos\Wordle\Wordle\obj\Debug\Wordle.Properties.Resources.resources
+C:\Users\ynahc\source\repos\Wordle\Wordle\obj\Debug\Wordle.csproj.GenerateResource.cache
+C:\Users\ynahc\source\repos\Wordle\Wordle\obj\Debug\Wordle.csproj.CoreCompileInputs.cache
+C:\Users\ynahc\source\repos\Wordle\Wordle\obj\Debug\Wordle.exe
+C:\Users\ynahc\source\repos\Wordle\Wordle\obj\Debug\Wordle.pdb
+C:\Users\ynahc\source\repos\Wordle\Wordle\obj\Debug\Wordle.helpWordle.resources
